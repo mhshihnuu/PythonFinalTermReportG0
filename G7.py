@@ -1,2 +1,2 @@
 def f7(n):
-    return n+9
+    return n-2
