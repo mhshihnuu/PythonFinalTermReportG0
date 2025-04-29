@@ -1,2 +1,2 @@
-def f7(604):
-    return 604+887
+def f7(n):
+    return n+9
